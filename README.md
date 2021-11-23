@@ -1,3 +1,3 @@
 # devign
 
-work in progress, maybe 6 months
+work in progress, ETA 6 months
